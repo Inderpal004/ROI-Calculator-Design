@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ROI-Calculator-Design/static/css/main.b28eac3d.css",
+    "main.js": "/ROI-Calculator-Design/static/js/main.7a98a548.js",
+    "index.html": "/ROI-Calculator-Design/index.html",
+    "main.b28eac3d.css.map": "/ROI-Calculator-Design/static/css/main.b28eac3d.css.map",
+    "main.7a98a548.js.map": "/ROI-Calculator-Design/static/js/main.7a98a548.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b28eac3d.css",
+    "static/js/main.7a98a548.js"
+  ]
+}
